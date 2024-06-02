@@ -43,7 +43,7 @@ phase and the MLP Training Parameters must be entered again.
 </p>
 
 <b>Image Recognition Learning Curve, MSE vs Epoch, 2 Hidden Layer2, Hidden Layer Depth = 15</b>
-
+![image](https://github.com/thomasteplick/imageMLP/assets/117768679/d22e9cc5-6498-476c-97af-fa834b874eff)
 
 <b>Image Recognition Test Results, 2 Hidden Layer2, Hidden Layer Depth = 15</b>
 ![image](https://github.com/thomasteplick/imageMLP/assets/117768679/b1ffa6c8-49db-4e5d-a749-e97eadb494dc)
