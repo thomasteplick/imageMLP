@@ -42,13 +42,14 @@ or over training with more examples than necessary may be detrimental to the MLP
 phase and the MLP Training Parameters must be entered again.
 </p>
 
-<b>Image Recognition Learning Curve, MSE vs Epoch, 1 Hidden Layer, Hidden Layer Depth = 15</b>
+<b>Image Recognition Learning Curve, MSE vs Epoch, 2 Hidden Layer2, Hidden Layer Depth = 15</b>
 
 
-<b>Image Recognition Test Results, 2 Hidden Layer, Hidden Layer Depth = 15</b>
+<b>Image Recognition Test Results, 2 Hidden Layer2, Hidden Layer Depth = 15</b>
 ![image](https://github.com/thomasteplick/imageMLP/assets/117768679/b1ffa6c8-49db-4e5d-a749-e97eadb494dc)
 
 ![image](https://github.com/thomasteplick/imageMLP/assets/117768679/3b242a67-623a-40a5-ba8e-5624581abe0e)
 
+![image](https://github.com/thomasteplick/imageMLP/assets/117768679/385039e1-eb25-4c66-9130-dd019b74cbbd)
 
 
